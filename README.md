@@ -8,7 +8,7 @@ Third-year CSE student building full-stack and cloud-native applications with
 Node.js, Express, React, AWS and Python. Solid grounding in DSA and serverless
 architecture, with a growing focus on AI-powered applications and DevOps automation.
 
-🔗 **Live Portfolio:** [dhruvag0026-art.github.io](https://dhruvag0026-art.github.io/)
+🔗 **Live Portfolio:** [dhruvag0026-art.github.io]([https://dhruvag0026-art.github.io/](https://dhruvag0026-art.github.io/Portfolio/))
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvagrawal0026@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DhruvAg0026-art)
