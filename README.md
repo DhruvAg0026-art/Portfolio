@@ -33,7 +33,7 @@ with LeetCode and Codeforces stats pulled live rather than hardcoded.
 
 ## Tech Stack
 
-`HTML` `CSS` `JavaScript` — no framework, no build step, just a single static page.
+`HTML` `CSS` `JavaScript` — no framework or build step. The page structure, styles, and behavior live in separate `index.html`, `styles.css`, and `script.js` files.
 
 ---
 
