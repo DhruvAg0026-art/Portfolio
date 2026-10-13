@@ -154,6 +154,7 @@
     background:rgba(232,163,61,.09); border:1px solid rgba(232,163,61,.25);
     padding:2px 8px; border-radius:20px;
   }
+  .file-year{font-family:var(--mono); font-size:12px; color:var(--text-dim); margin-left:auto;}
   .file-desc p{color:var(--text-dim); font-size:14.5px; margin-bottom:6px;}
   .file-desc b{color:var(--text); font-weight:600;}
 
@@ -209,6 +210,8 @@
   }
   .ach-num{font-family:var(--mono); font-size:26px; color:var(--amber); font-weight:700;}
   .ach-label{font-size:13px; color:var(--text-dim); margin-top:4px;}
+  .activity-list{padding:18px 0 0 18px; color:var(--text-dim); font-size:14.5px;}
+  .activity-list li{margin-bottom:6px;}
 
   footer{
     max-width:920px; margin:0 auto; padding:40px 24px 64px;

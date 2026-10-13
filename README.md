@@ -4,9 +4,9 @@
 
 **Backend & Cloud-Native Developer**
 
-Third-year CSE student building full-stack and cloud-native applications with
-Node.js, Express, React, AWS and Python. Solid grounding in DSA and serverless
-architecture, with a growing focus on AI-powered applications and DevOps automation.
+Third-year CSE student with hands-on experience building full-stack and cloud-native
+applications using Node.js, Express.js, React, AWS and Python. Interested in backend
+development, cloud automation, AI/LLM engineering and DevOps.
 
 🔗 **Live Portfolio:** [dhruvag0026-art.github.io](https://dhruvag0026-art.github.io/Portfolio/)
 
@@ -22,14 +22,14 @@ architecture, with a growing focus on AI-powered applications and DevOps automat
 ## About
 
 This repo hosts my personal portfolio — a single-page site built to showcase my
-experience, projects, and coding activity in one place. Terminal-inspired dark UI,
-with LeetCode and Codeforces stats pulled live rather than hardcoded.
+education, experience, projects, technical skills and coding activity. LeetCode and
+Codeforces stats are fetched live.
 
 **Highlights:**
 - 💼 Software Development Intern @ Vicharanashala Labs, IIT Ropar
-- 🤖 Built an agentic AI code review pipeline (LLM + static analysis + auto-fix loop)
-- ☁️ Architected a serverless notification system on AWS Lambda — 40% lower latency than polling
-- 📊 100+ DSA problems solved · Codeforces rated
+- 💳 Built UPI Without Internet to explore payments in low-connectivity environments
+- 💻 Built SyncStudio, a real-time collaborative code editor
+- 📊 LeetCode and Codeforces stats shown live in the portfolio
 
 ## Tech Stack
 
